@@ -1,0 +1,26 @@
+_repo: Beautiful-but-poor_68929
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Edwards, Julia
+    gutenberg_agent_id: '55017'
+    url: http://www.gutenberg.org/2009/agents/55017
+description: ''
+gutenberg_issued: '2022-09-07'
+identifiers:
+  gutenberg: '68929'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:683739
+pgterms:marc905: 20211222071951edwards
+pgterms:marc906: '1890'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: United States :Street & Smith,1890.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Beautiful but poor
+url: http://www.gutenberg.org/ebooks/68929
